@@ -9,4 +9,4 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
   And the link to the app is here:
   https://tjrkw7.csb.app/
 
-- 
+- Wrote a pure react app, included a clock that ticks, file can be found in pure react folder
