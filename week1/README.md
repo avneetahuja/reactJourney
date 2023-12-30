@@ -10,3 +10,6 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
   https://tjrkw7.csb.app/
 
 - Wrote a pure react app, included a clock that ticks, file can be found in pure react folder
+
+## Day 2:
+- Decided to learn some JS concepts that may be used in React, script.js can be found in js-review
