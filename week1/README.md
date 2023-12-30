@@ -12,4 +12,4 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
 - Wrote a pure react app, included a clock that ticks, file can be found in pure react folder
 
 ## Day 2:
-- Decided to learn some JS concepts that may be used in React, script.js can be found in js-review
+- Decided to learn/review some JS concepts that may be used in React including: Destructuring arrays/objects, template literals, Array ops like map, filter, sort, optional chaining, async methods, etc.
