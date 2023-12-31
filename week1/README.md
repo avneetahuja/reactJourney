@@ -17,5 +17,6 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
 ## Day 3:
 - Learned Components how to nest them and started learning JSX rules, made a profile card mini project at the following code sandbox:
   https://codesandbox.io/p/sandbox/profilecard-gfq7px?file=%2Fsrc%2Findex.js%3A59%2C9
+
   Link to app page:
   https://gfq7px.csb.app/
