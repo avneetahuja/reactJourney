@@ -20,3 +20,6 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
 
   Link to app page:
   https://gfq7px.csb.app/
+
+## Day 4:
+- Developed a static web page for a local company, proof of concept really, going to start to learn how to make it dynamic. Anyways, in this one, used lots of components, props, conditional rendering, played around with JSX and it did hurt my head a bit at the start with JS being within JSX and having some JSX inside it but getting used to it as I progress. The page's v1 can be found under the **stationaryApp** folder
