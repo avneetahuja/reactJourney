@@ -4,10 +4,10 @@ This is the beginning to my react journey here is what I managed to complete in 
 
 ## Day 1:
 - Worked on my first react app following a tutorial, used api calls, props, useEffect, useState and JSX, link to sandbox is here:
-https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30%2C36
+[SandBox](https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30%2C36)
 
   And the link to the app is here:
-  https://tjrkw7.csb.app/
+  [App](https://tjrkw7.csb.app/)
 
 - Wrote a pure react app, included a clock that ticks, file can be found in pure react folder
 
@@ -16,10 +16,10 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
 
 ## Day 3:
 - Learned Components how to nest them and started learning JSX rules, made a profile card mini project at the following code sandbox:
-  https://codesandbox.io/p/sandbox/profilecard-gfq7px?file=%2Fsrc%2Findex.js%3A59%2C9
+  [SandBox](https://codesandbox.io/p/sandbox/profilecard-gfq7px?file=%2Fsrc%2Findex.js%3A59%2C9)
 
   Link to app page:
-  https://gfq7px.csb.app/
+  [App](https://gfq7px.csb.app/)
 
   Preview:<br>
   <p align="center">
@@ -33,5 +33,5 @@ https://codesandbox.io/p/sandbox/bitter-sound-tjrkw7?file=%2Fsrc%2Findex.js%3A30
   </p>
 
 ## Day 5:
-- Learned how to make interactive components using states in React, found out React is called React because it reacts to the change in state and re-renders the UI. All in all, states are pretty cool and easy to use! [Here](https://l689ss.csb.app/) is an interactive date counter app that I built using states, I have not styled it as I was just trying to see how well I understand it. https://l689ss.csb.app/
+- Learned how to make interactive components using states in React, found out React is called React because it reacts to the change in state and re-renders the UI. All in all, states are pretty cool and easy to use! [Here](https://l689ss.csb.app/) is an interactive date counter app that I built using states, I have not styled it as I was just trying to see how well I understand it.
   
