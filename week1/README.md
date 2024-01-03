@@ -34,4 +34,6 @@ This is the beginning to my react journey here is what I managed to complete in 
 
 ## Day 5:
 - Learned how to make interactive components using states in React, found out React is called React because it reacts to the change in state and re-renders the UI. All in all, states are pretty cool and easy to use! [Here](https://l689ss.csb.app/) is an interactive date counter app that I built using states, I have not styled it as I was just trying to see how well I understand it.
-  
+
+## Day 6:
+- Tested out my knowledge of states and wanted to practice some questions from my Distributed Software Development class so made a quizlet-style flashcards React app [here](https://d3d8dd.csb.app/)
