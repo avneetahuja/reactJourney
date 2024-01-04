@@ -23,13 +23,13 @@ This is the beginning to my react journey here is what I managed to complete in 
 
   Preview:<br>
   <p align="center">
-    <img src="images/profileCard.png" height="500" />
+    <img src="images/profileCard.png" width="500" />
   </p>
 ## Day 4:
 - Developed a static web page for a local company, proof of concept really, going to start to learn how to make it dynamic (interactive). Anyways, in this one, used lots of components, props, conditional rendering, played around with JSX and it did hurt my head a bit at the start with JS being within JSX and having some JSX inside it but getting used to it as I progress. The page's v1 can be found under the **stationaryApp** folder. Here is a preview of the page:
   <br>
   <p align="center">
-    <img src="stationaryApp/ggdss.png" height="500"/>
+    <img src="stationaryApp/ggdss.png" width="500"/>
   </p>
 
 ## Day 5:
@@ -39,4 +39,7 @@ This is the beginning to my react journey here is what I managed to complete in 
 - Tested out my knowledge of states and wanted to practice some questions from my Distributed Software Development class so made a quizlet-style flashcards React app [here](https://d3d8dd.csb.app/)
 
 ## Day 7:
-- Got a trip coming up, so started making an interactive packing list app by follwing a tutorial, further learning state management including: when to use states, difference between global and local states, what are derived states, etc.
+- Got a trip coming up, so started making an interactive packing list app by follwing a tutorial, further learning state management including: when to use states, difference between global and local states, what are derived states, etc. Here is a preview of the progress so far:
+  <p align="center">
+    <img src="images/goingAwaySS1.png" width="500" />
+  </p>
