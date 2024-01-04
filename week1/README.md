@@ -37,3 +37,6 @@ This is the beginning to my react journey here is what I managed to complete in 
 
 ## Day 6:
 - Tested out my knowledge of states and wanted to practice some questions from my Distributed Software Development class so made a quizlet-style flashcards React app [here](https://d3d8dd.csb.app/)
+
+## Day 7:
+- Got a trip coming up, so started making an interactive packing list app by follwing a tutorial, further learning state management including: when to use states, difference between global and local states, what are derived states, etc.
