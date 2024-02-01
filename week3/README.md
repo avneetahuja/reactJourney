@@ -1,0 +1,2 @@
+# Week 3
+I have not been active here but I have been learning React consistently but a little slowly since my semester has started, I have built a simple app that helps me track my sports bets by allowing me to add new bets, change status of open bets and delete incorrect entries, also I have learned to build highly reusable components for example, I recently built a high;y reusable star rating component and a show button component that can be found [here](https://codesandbox.io/p/sandbox/reusable-show-more-button-246rjy)
